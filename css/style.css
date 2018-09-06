@@ -334,7 +334,6 @@ footer .footer-cols {
 grid-gap: 10px;
 grid-template-columns: repeat(1, 1fr);
 padding: 0.5rem;
-text-align: center;
 }
     
 }
